@@ -1,4 +1,4 @@
-![Screenshot do projeto](screenshot.png)
+![Screenshot do projeto](Screenshots.png)
 
 # 🐍 Missão Python — Escola 42 São Paulo
 

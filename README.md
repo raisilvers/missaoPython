@@ -1,4 +1,4 @@
-![Screenshot do projeto](2025-12-12 12-43-03.png)
+![Screenshot do projeto](print_tela.png)
 
 # 🐍 Missão Python — Escola 42 São Paulo
 

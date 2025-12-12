@@ -20,3 +20,24 @@ Este repositório contém os módulos desenvolvidos durante a imersão:
 - modulo7
 - modulo8
 - modulo9
+
+  ---
+
+## 🚀 Objetivo da Imersão
+- Desenvolver autonomia para aprender programação.  
+- Resolver problemas de forma colaborativa.  
+- Compartilhar conhecimento entre colegas.  
+- Experimentar o método pedagógico único da 42.
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+- Python  
+- Terminal / Shell  
+- Git & GitHub  
+- Ambiente 42 São Paulo  
+
+---
+
+## 🙌 Agradecimentos
+A todos da 42 São Paulo pela experiência incrível e pela metodologia que incentiva a criatividade, colaboração e aprendizagem contínua.

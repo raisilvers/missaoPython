@@ -1,3 +1,4 @@
+![Descrição da imagem](imagem.png)
 # 🐍 Missão Python — Escola 42 São Paulo
 
 Missão em Python foi uma imersão presencial de 5 dias na Escola 42 São Paulo, criada com o propósito de aprender a aprender e compartilhar conhecimento entre todos.  

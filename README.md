@@ -40,3 +40,5 @@ Este repositório contém os módulos desenvolvidos durante a imersão:
 
 ## 🙌 Agradecimentos
 A todos da 42 São Paulo pela experiência incrível e pela metodologia que incentiva a criatividade, colaboração e aprendizagem contínua.
+
+https://github.com/raisilvers/my-files/blob/main/certificate_98b5127e-c3da-4feb-a929-f4e3694dcad3.png

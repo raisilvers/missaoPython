@@ -2,7 +2,9 @@
 
 n = int(input("Digite um numero: "))
 
-if n < 0:
-    print("Negativo")
+if n == 0:
+    print("This number is positive and negative")
+elif n < 0:
+    print("Negative")
 else:
     print("Positivo")
